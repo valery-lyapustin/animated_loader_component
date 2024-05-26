@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# React Animated Loader Component 
+Animated Loader Component это красивый и элегантный анимированный компонент загрузки, созданный на React и CSS. Он предназначен для отображения во время загрузки контента или выполнения асинхронных операций.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Особенности
+Легко настраиваемый: вы можете легко изменить число элементов, скорость анимации и другие параметры.
+Модульный: компонент может быть легко импортирован и встроен в любой проект React.
+Современный код: использует последние возможности React и CSS.
 
-## Available Scripts
+# Использование
+Клонируйте репозиторий или загрузите код.
+Импортируйте компонент в ваш проект.
+Используйте компонент <Loader /> в нужном месте в вашем приложении.
 
-In the project directory, you can run:
+# Как настроить
+Вы можете настроить компонент, изменив следующие параметры в CSS:
 
-### `npm start`
+--position: изменяет положение каждого элемента в анимации.
+color: изменяет цвет элементов.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Демонстрация
+Посмотрите на живой пример анимированного лоадера [https://valery-lyapustin.github.io/animated_loader_component](ссылка на демонстрацию).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Лицензия
+Animated Loader Component лицензирован под MIT.
 
-### `npm test`
+# Поддержка
+Если у вас возникли вопросы или проблемы, создайте новый issue в этом репозитории.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Контрибуции
+Контрибуции приветствуются! Если вы хотите улучшить этот компонент, не стесняйтесь сделать fork и отправить pull request.
