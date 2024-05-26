@@ -9,7 +9,7 @@
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: black;
+	background: var(--loader-background-color);
 }
 
 .loader {
@@ -64,7 +64,11 @@
 }
 
 :root {
-	--loader-size: 150px; /* Размер лоадера */
-	--loader-color: #EC6608; /* Цвет лоадера */
-	--loader-speed: 2s; /* Скорость анимации */
+	--loader-size: 150px;
+	/* Размер лоадера */
+	--loader-speed: 2s;
+	/* Скорость анимации */
+	--loader-color: #EC6608;
+	/* Цвет лоадера */
+	--loader-background-color: black;
 }
